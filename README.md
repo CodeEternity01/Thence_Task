@@ -15,16 +15,16 @@
 Watch a quick demo of the app here:
 [![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://1drv.ms/v/s!AgWv6KZ5XBReg9oE-YEAEOvLG7eKmQ?e=k0RegY)
 
-## Screenshots
 
+## Screenshots
 1. **Skeleton Screen**  
-   ![Skeleton Screen](skeleton.png)
+   <img src="skeleton.png" width="200" />
 
 2. **Home Screen**  
-   ![Home Screen](plants_screen.png)
+   <img src="plants_screen.png" width="200" />
 
 3. **Search Functionality**  
-   ![Search Functionality](search.png)
+   <img src="search.png" width="200" />
 
 4. **Plant Details**  
-   ![Plant Details](details.png)
+   <img src="details.png" width="200" />
