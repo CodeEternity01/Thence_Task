@@ -20,16 +20,16 @@ Watch a quick demo of the app here:
 ## Screenshots
 
 1. **Skeleton Screen**  
-   ![Skeleton Screen](https://1drv.ms/i/s!AgWv6KZ5XBReg9oC9Zz51-1Ea1ovng?e=xnsyYJ)
+   ![Skeleton Screen](https://1drv.ms/v/s!AgWv6KZ5XBReg9oE-YEAEOvLG7eKmQ?e=HA5iQ4)
 
 2. **Home Screen**  
-   ![Home Screen](https://1drv.ms/i/s!AgWv6KZ5XBReg9oDsdcRMcQaVoiu2A?e=asSm4w)
+   ![Home Screen](https://1drv.ms/i/s!AgWv6KZ5XBReg9oDY_cL9YMdAHlXgQ?e=KbgAvX)    
 
 3. **Search Functionality**  
-   ![Search Functionality](https://1drv.ms/i/s!AgWv6KZ5XBReg9oHSYtPbqT0ONt-1Q?e=a3KIz5)
+   ![Search Functionality](https://1drv.ms/i/s!AgWv6KZ5XBReg9oHAnfywpd_b3cbUw?e=NSzXcI)
 
 4. **Plant Details**  
-   ![Plant Details](https://1drv.ms/i/s!AgWv6KZ5XBReg9oG1q7J_ANz55ROPQ?e=fkADDQ)
+   ![Plant Details](https://1drv.ms/i/s!AgWv6KZ5XBReg9oG-Du6RFdCJD2tvA?e=LnsTEM)
 
 ## Getting Started
 
