@@ -13,29 +13,18 @@
 ## Video Demo
 
 Watch a quick demo of the app here:
-
-<a href="https://1drv.ms/v/s!AgWv6KZ5XBReg9oE-YEAEOvLG7eKmQ?e=k0RegY">
-  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg" alt="Watch the video" width="600">
-</a>
+[![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)](https://1drv.ms/v/s!AgWv6KZ5XBReg9oE-YEAEOvLG7eKmQ?e=k0RegY)
 
 ## Screenshots
 
 1. **Skeleton Screen**  
-   <a href="https://1drv.ms/v/s!AgWv6KZ5XBReg9oE-YEAEOvLG7eKmQ?e=HA5iQ4">
-     <img src="https://1drv.ms/v/s!AgWv6KZ5XBReg9oE-YEAEOvLG7eKmQ?e=HA5iQ4" alt="Skeleton Screen" width="300">
-   </a>
+   ![Skeleton Screen](skeleton.png)
 
 2. **Home Screen**  
-   <a href="https://1drv.ms/i/s!AgWv6KZ5XBReg9oDY_cL9YMdAHlXgQ?e=KbgAvX">
-     <img src="https://1drv.ms/i/s!AgWv6KZ5XBReg9oDY_cL9YMdAHlXgQ?e=KbgAvX" alt="Home Screen" width="300">
-   </a>
+   ![Home Screen](plants_screen.png)
 
 3. **Search Functionality**  
-   <a href="https://1drv.ms/i/s!AgWv6KZ5XBReg9oHAnfywpd_b3cbUw?e=NSzXcI">
-     <img src="https://1drv.ms/i/s!AgWv6KZ5XBReg9oHAnfywpd_b3cbUw?e=NSzXcI" alt="Search Functionality" width="300">
-   </a>
+   ![Search Functionality](search.png)
 
 4. **Plant Details**  
-   <a href="https://1drv.ms/i/s!AgWv6KZ5XBReg9oG-Du6RFdCJD2tvA?e=LnsTEM">
-     <img src="https://1drv.ms/i/s!AgWv6KZ5XBReg9oG-Du6RFdCJD2tvA?e=LnsTEM" alt="Plant Details" width="300">
-   </a>
+   ![Plant Details](details.png)
