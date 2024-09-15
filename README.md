@@ -14,27 +14,28 @@
 
 Watch a quick demo of the app here:
 
-![Watch the video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg)
-[Watch the video](https://1drv.ms/v/s!AgWv6KZ5XBReg9oE-YEAEOvLG7eKmQ?e=k0RegY)
+<a href="https://1drv.ms/v/s!AgWv6KZ5XBReg9oE-YEAEOvLG7eKmQ?e=k0RegY">
+  <img src="https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/maxresdefault.jpg" alt="Watch the video" width="600">
+</a>
 
 ## Screenshots
 
 1. **Skeleton Screen**  
-   ![Skeleton Screen](https://1drv.ms/v/s!AgWv6KZ5XBReg9oE-YEAEOvLG7eKmQ?e=HA5iQ4)
+   <a href="https://1drv.ms/v/s!AgWv6KZ5XBReg9oE-YEAEOvLG7eKmQ?e=HA5iQ4">
+     <img src="https://1drv.ms/v/s!AgWv6KZ5XBReg9oE-YEAEOvLG7eKmQ?e=HA5iQ4" alt="Skeleton Screen" width="300">
+   </a>
 
 2. **Home Screen**  
-   ![Home Screen](https://1drv.ms/i/s!AgWv6KZ5XBReg9oDY_cL9YMdAHlXgQ?e=KbgAvX)    
+   <a href="https://1drv.ms/i/s!AgWv6KZ5XBReg9oDY_cL9YMdAHlXgQ?e=KbgAvX">
+     <img src="https://1drv.ms/i/s!AgWv6KZ5XBReg9oDY_cL9YMdAHlXgQ?e=KbgAvX" alt="Home Screen" width="300">
+   </a>
 
 3. **Search Functionality**  
-   ![Search Functionality](https://1drv.ms/i/s!AgWv6KZ5XBReg9oHAnfywpd_b3cbUw?e=NSzXcI)
+   <a href="https://1drv.ms/i/s!AgWv6KZ5XBReg9oHAnfywpd_b3cbUw?e=NSzXcI">
+     <img src="https://1drv.ms/i/s!AgWv6KZ5XBReg9oHAnfywpd_b3cbUw?e=NSzXcI" alt="Search Functionality" width="300">
+   </a>
 
 4. **Plant Details**  
-   ![Plant Details](https://1drv.ms/i/s!AgWv6KZ5XBReg9oG-Du6RFdCJD2tvA?e=LnsTEM)
-
-## Getting Started
-
-To get started with this project:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/thence_assignment.git
+   <a href="https://1drv.ms/i/s!AgWv6KZ5XBReg9oG-Du6RFdCJD2tvA?e=LnsTEM">
+     <img src="https://1drv.ms/i/s!AgWv6KZ5XBReg9oG-Du6RFdCJD2tvA?e=LnsTEM" alt="Plant Details" width="300">
+   </a>
